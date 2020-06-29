@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AnyPay Sample App</string>
+    <string name="pps_button">Priority Payments</string>
+    <string name="propay_button">Propay</string>
+    <string name="worldnet_button">Worldnet</string>
+    <string name="terminal_auth">Validate</string>
+    <string name="usb_connect">USB Connect</string>
+    <string name="audio_connect">Audio Connect</string>
+    <string name="bt_connect">BT Connect</string>
+    <string name="keyed_sale">Keyed Sale</string>
+    <string name="emv_sale">EMV Sale</string>
+    <string name="ref_refund">Ref Refund</string>
+    <string name="new_refund">New Refund</string>
+    <string name="emv_auth">EMV Auth</string>
+    <string name="capture">Capture</string>
+    <string name="submit">Submit</string>
+    <string name="title">Select Your Gateway</string>
+</resources>
